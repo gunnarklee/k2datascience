@@ -20,6 +20,11 @@
         - medium priority?
         - low priority? 
 
+- Blog: [Startup Unleashes Its Clone of Google’s ‘Knowledge Graph’](https://www.wired.com/2015/06/startup-shares-google-knowledge-graph-clone-everyone/)
+What is a knoledge graph? How does this contextually aware knowledge graph work? how do you think it decides what to serve to the user? 
+How/ where is the data stored? what underlying model does it use? How does it work in real time?
+
+
 [Table of Contents](#toc)
 
 
